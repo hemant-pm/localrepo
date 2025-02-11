@@ -1,4 +1,4 @@
-import java.util.* ;
+import java.util.*;
 public class code_journey{
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
@@ -12,5 +12,5 @@ public class code_journey{
             System.out.println(num2+" is largest of the two");
         }
 
-    
+    sc.close();
 }}
